@@ -28,7 +28,7 @@ Conceptos básicos del diseño sobre el color, la forma, las leyes de percepció
 
 Diseño de marca (logotipo, isologotipo), sistema de grillas, diseño de mockups, comunicación y anuncios, creación de Brief, Branding y Brandbook.
 
-- <a href="https://www.coderhouse.cl/certificados/62eacc232367140024029891"><img src="https://serviciodigital.cl/imagenes_publicas/62eacc232367140024029891%20(1).png" width="350px" height="auto"/><br>Certificado de Fundamentos del Diseño Gráfico - Coderhouse </a>
+- <a href="https://www.coderhouse.cl/certificados/62eacc232367140024029891">Certificado de Fundamentos del Diseño Gráfico - Coderhouse </a>
 
 
 ### Trabajos Realizados
