@@ -22,7 +22,7 @@ Carrera que entrega las habilidades suficientes para sumarse a diferentes roles 
 <img src="https://desafiosdev.s3.amazonaws.com/uploads/certification/image/15100/aprobacion-final-proyecto-ux-ui-g24-9589.png" width="350px" height="auto"/>
 
 
-### Fundamentos del Diseño Gráfico - Coderhoouse 
+### Fundamentos del Diseño Gráfico - Coderhouse 
 
 Conceptos básicos del diseño sobre el color, la forma, las leyes de percepción de la Gestalt y el uso de tipografía.
 
@@ -30,6 +30,9 @@ Diseño de marca (logotipo, isologotipo), sistema de grillas, diseño de mockups
 
 - <a href="https://www.coderhouse.cl/certificados/62eacc232367140024029891">Certificado de Fundamentos del Diseño Gráfico - Coderhouse </a>
 
+### Community Manager y Social Media - DuocUC
+
+- <a href="https://drive.google.com/file/d/1R7a4XkqLEsNX6I1PycsAWS7SQq5eOx7Y/view">Certificado de Community Manager y Social Media - DuocUC - Educación Continua</a>
 
 ### Trabajos Realizados
 
@@ -58,3 +61,9 @@ Trabajo realizado para el módulo de Diseño UI en la Academia Desafío Latam
 - <a href="https://www.figma.com/proto/3Wq5oAgHc0wvqStIBVZiuP/Academia-Desaf%C3%ADo-Latam?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2&show-proto-sidebar=1">Desafío Latam - Prototipo Mobile - Figma</a>
 - <a href="https://www.figma.com/proto/3Wq5oAgHc0wvqStIBVZiuP/Academia-Desaf%C3%ADo-Latam?node-id=380%3A2743&scaling=scale-down&page-id=2%3A5&starting-point-node-id=380%3A2743&show-proto-sidebar=1">Desafío Latam - Prototipo Desktop - Figma</a>
 - <a href="https://www.figma.com/file/3Wq5oAgHc0wvqStIBVZiuP/Academia-Desaf%C3%ADo-Latam?node-id=6%3A6">Desafío Latam - Ui Kit - Figma</a>
+
+#### Trabajo Final Community Manager y Social Media
+
+Golden Circle, segmentos, perfiles, grilla de contenidos, mockups.
+
+- <a href="https://docs.google.com/presentation/d/111K0RQ_BMVxSb6VlVngIA_5ru-FPhDhThtznXbpTjRM/edit?usp=sharing">Trabajo final - Community Manager y Social Media</a>
