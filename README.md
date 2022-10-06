@@ -10,6 +10,7 @@ Conocimientos básicos en:
 - Diseño de Interfaces
 - UI Design
 - Figma
+- Diseño Gráfico
 
 
 ## Estudios Relacionados
@@ -20,6 +21,14 @@ Carrera que entrega las habilidades suficientes para sumarse a diferentes roles 
 
 <img src="https://desafiosdev.s3.amazonaws.com/uploads/certification/image/15100/aprobacion-final-proyecto-ux-ui-g24-9589.png" width="350px" height="auto"/>
 
+
+### Fundamentos del Diseño Gráfico - Coderhoouse 
+
+Conceptos básicos del diseño sobre el color, la forma, las leyes de percepción de la Gestalt y el uso de tipografía.
+
+Diseño de marca (logotipo, isologotipo), sistema de grillas, diseño de mockups, comunicación y anuncios, creación de Brief, Branding y Brandbook.
+
+- <a href="https://www.coderhouse.cl/certificados/62eacc232367140024029891"><img src="https://serviciodigital.cl/imagenes_publicas/62eacc232367140024029891%20(1).png" width="350px" height="auto"/><br>Certificado de Fundamentos del Diseño Gráfico - Coderhouse </a>
 
 
 ### Trabajos Realizados
@@ -32,6 +41,15 @@ Carrera que entrega las habilidades suficientes para sumarse a diferentes roles 
 - <a href="https://www.figma.com/proto/S9SvxZAiotT2zhvNpFL9JI/Laboratorio?node-id=175%3A530&scaling=scale-down&page-id=15%3A673&starting-point-node-id=175%3A530&show-proto-sidebar=1">Laboratorio VetDiagnostic - Prototipo Desktop - Figma</a> 
 - <a href="https://vetdiagnostic.cl/index.html">Laboratorio VetDiagnostic - Sitio Web</a>
 - <a href="https://github.com/veronica-gonzalez/vetdiagnostic">Laboratorio VetDiagnostic - Repositorio GitHub</a> 
+
+#### Jardines Paraíso
+
+Elaboración de Logo para la empresa Jardines Paraíso:
+
+Protopersona, Mapa de empatía, Brief, Tipografía, Isotipo, Mockups, Anuncios.
+
+- <a href="https://www.behance.net/gallery/149119385/Jardines-Paraiso-Logo">Marca Jardines Paraíso - Behance </a>
+
 
 #### Desafío Latam - Rediseño
 
